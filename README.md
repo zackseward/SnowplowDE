@@ -1,6 +1,3 @@
-# basic-site-template
-
-This is a basic site that is linked to the following:
-jquery cdn
-an assets folder containing css (with SASS), javascript and images.
 # snowplow-de
+is a sad, sorry attempt at me being a civic hacker
+fyi, i know, the buttons don't work
